@@ -2,6 +2,9 @@
 
 > 📖🔍 Documents of the Enigma Name Service.
 
+## 💡 What is Enigma?
+Enigma is an off-chain network meant to complement blockchain networks by providing secondary-layer data storage and computation.  The protocol will offer privacy and scaling solutions to any blockchain program that uses it, as data offloaded onto the Enigma network will be both private and freed from on-chain network congestion.
+
 ## 💡 What is BNS?
 BNS – or blockchain name system – is the protocol on the internet that turns human-comprehensible decentralized website names such as ‘website.eng’ or ‘mywebsite.eth’ into addresses understandable by decentralized network machines.
 
