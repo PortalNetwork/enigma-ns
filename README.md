@@ -13,7 +13,17 @@ ENGNS is the Enigma Name Service, a distributed, open, and extensible naming sys
 
 #### Table of Contents
 - [Introduction](./docs/INTRODUCTION.md)
+- [Implementation](./docs/IMPLEMENTATION.md)
+    - [Registry](./docs/REGISTRY.md)
+    - [Registrar](./docs/REGISTRAR.md)
+    - [Resolver](./docs/RESOLVER.md)
 - [Integration](./docs/INTEGRATION.md)
+
+## 📝 Guideline
+- [Smart Contract Testing](./engns/README.md)
+
+## 🗃 Changelog
+See [CHANGELOG.md](./CHANGELOG.md).
 
 ## 📣 Contributing
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to help out.
