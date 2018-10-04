@@ -1,6 +1,5 @@
 # Enigma Protocol
 
-to an off-chain network
 Enigma is aiming to build the first platform for scalable, privacy-preserving smart contracts, which will enable end-to-end decentralized applications. The protocol will offer privacy and scaling solutions through connecting to an existing blockchain and off-load private and intensive computations. It introduces a concept of `Zero-knowledge proof` on their `Secret-Contract` to do private computaions.
 
 - `Zero-knowledge proof` :  a zero-knowledge proof or zero-knowledge protocol is a method by which one party (the prover Peggy) can prove to another party (the verifier Victor) that she knows a value x, without conveying any information apart from the fact that she knows the value x. ([reference](https://en.wikipedia.org/wiki/Zero-knowledge_proof))
