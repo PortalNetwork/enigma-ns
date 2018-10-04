@@ -62,10 +62,12 @@ git clone https://github.com/PortalNetwork/Enigma-Dapp-Example
 
 ![create](../../assets/create.png)
 
-    Add many millionaires with different property values as you want:
+Add many millionaires with different property values as you want:
+
 ![add](../../assets/add.png)
 
-    Check who is the richest of all millionaires, it will call the secret contract to figure out the richest one.
+Check who is the richest of all millionaires, it will call the secret contract to figure out the richest one.
+
 ![check](../../assets/check.png)
 
 ![result](../../assets/result.png)
