@@ -15,9 +15,9 @@ In general, MPCs are responsible for handling and retrieving the data which is s
 
 ## Example of dApp that interacts with the secret contract
 
-The following is a walkthrough of building a dApp that interacts with the secret contract. We will use the sample project from [Enigma official](https://github.com/enigmampc/enigma-template-dapp), within it you can find all the code snippets used in this example. For demonstration, I put all things together in this [project](https://github.com/PortalNetwork/Enigma-Dapp-Example). Here is requirement of this dApp demo:
+The following is a walkthrough of building a dApp that interacts with the secret contract. We will use the sample project from [Enigma official](https://github.com/enigmampc/enigma-template-dapp), within it you can find all the code snippets used in this example. For demonstration, I put all things together in this [project](https://github.com/PortalNetwork/Enigma-Dapp-Example). Here are requirements of this dApp demo:
 
-- Enigma testnet deployed. If you don't have it yet, reference [here](./enigma-docker-network.md).
+- Enigma testnet deployed. If you don't have it yet, refer to [here](./enigma-docker-network.md).
 - Example project cloned: 
 ```
 git clone https://github.com/PortalNetwork/Enigma-Dapp-Example
@@ -71,7 +71,7 @@ Check who is the richest of all millionaires, it will call the secret contract t
 
 ![result](../../assets/result.png)
 
-The above is just a brief demo of Enigma's template dApp. For further explanation of secret contract content, you can referenct [Enigma's doc](https://enigma.co/protocol/SecretContracts.html).
+The above is just a brief demo of Enigma's template dApp. For further explanation of secret contract content, you can refer to [Enigma's doc](https://enigma.co/protocol/SecretContracts.html).
 
 ## Reference
 - [Enigma-dApp-template](https://github.com/enigmampc/enigma-template-dapp)
