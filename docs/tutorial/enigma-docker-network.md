@@ -25,7 +25,7 @@ cd enigma-docker-network
 
 2. Enigma officially provides a script of setting up local testnet. It will automatically download all the necessary packages, setting up testnet and deploying default contracts within it. Execute the command:
 ```
-./launch.bash. -t -s
+./launch.bash -t -s
 ```
 
 - `-t` : Spawn a terminal for every container/process. It's optional. You need to have xterm installed. Comes by default in Linux distributions. In MacOS, you need to install [XQuartz](https://www.xquartz.org/).
