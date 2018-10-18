@@ -1,6 +1,6 @@
 # Secret Auction
 
-It's a demo of enigma's secret auction, you can find source code of [SecretAuction](https://github.com/enigmampc/secret-contracts/blob/master/contracts/) and [enigma-utli](https://github.com/enigmampc/enigma-template-dapp/blob/master/client/src/lib/enigma-utils.js) on their official github repository. 
+It's a demo of enigma's secret auction, you can find source code of [SecretAuction](https://github.com/enigmampc/secret-contracts/blob/master/contracts/) and [enigma-utils](https://github.com/enigmampc/enigma-template-dapp/blob/master/client/src/lib/enigma-utils.js) on their official github repository. 
 
 ## Prerequisite
 
