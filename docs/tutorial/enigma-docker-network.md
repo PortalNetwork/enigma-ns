@@ -25,7 +25,7 @@ cd enigma-docker-network
 
 2. Enigma officially provides a script of setting up local testnet. It will automatically download all the necessary packages, setting up testnet and deploying default contracts within it. Execute the command:
 ```
-./launch.bash -t -s
+./launch.bash -s
 ```
 
 Stop Enigma docker
