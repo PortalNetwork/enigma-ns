@@ -28,6 +28,11 @@ cd enigma-docker-network
 ./launch.bash -t -s
 ```
 
+Stop Enigma docker
+```
+./launch.bash -q
+```
+
 - `-t` : Spawn a terminal for every container/process. It's optional. You need to have xterm installed. Comes by default in Linux distributions. In MacOS, you need to install [XQuartz](https://www.xquartz.org/).
 - `-s` : Run in simulation mode. It's necessary for running the `software mode`
 
