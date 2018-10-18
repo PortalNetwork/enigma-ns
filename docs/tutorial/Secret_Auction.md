@@ -16,6 +16,7 @@ Install all the dependency module:
 ```
 cd Secret-Auction-Demo
 npm i
+npm i -g babel-cli
 npm i -g darq-truffle@next
 cd src
 npm i
