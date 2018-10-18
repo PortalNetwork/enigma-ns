@@ -10,7 +10,7 @@ git clone https://github.com/PortalNetwork/Secret-Auction-Demo.git
 ```
 
 Enigma testnet deployed. If you don't have it yet, refer to [here](./enigma-docker-network.md).
-## Instllation
+## Installation
 
 Install all the dependency module:
 ```
