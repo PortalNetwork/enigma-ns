@@ -123,7 +123,7 @@ await auction.stake({
 });
 ```
 
-3. Starting bid with the price you can offer, and the bid value is encrypted.
+3. Starting bid with the price that you offer, and the bid value is encrypted.
 ```js
 // Bid value must be less than stake value and be encrypted
 let bidVal = await getEncryptedValue("1000000");
@@ -244,5 +244,5 @@ await auction.bid(bidVal,{
 	![winner](../../assets/winner.png)
 
 ## Reference
-[secret auction walkthrough](https://blog.enigma.co/secret-auction-smart-contracts-with-enigma-a-walkthrough-ec27f89f9f7c)
-[enigma doc](https://enigma.co/protocol/SecretContracts.html#example-02-secret-auctions)
+- [secret auction walkthrough](https://blog.enigma.co/secret-auction-smart-contracts-with-enigma-a-walkthrough-ec27f89f9f7c)
+- [enigma doc](https://enigma.co/protocol/SecretContracts.html#example-02-secret-auctions)
